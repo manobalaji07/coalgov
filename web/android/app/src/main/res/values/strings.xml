@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CoalGov AI Mobile</string>
+    <string name="title_activity_main">CoalGov AI Mobile</string>
+    <string name="package_name">in.gov.coal.coalgov</string>
+    <string name="custom_url_scheme">in.gov.coal.coalgov</string>
+</resources>
